@@ -1,0 +1,25 @@
+body {
+    background-color: #7fb0ff;
+    font-family: helvetica;
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+}
+
+section {
+    background-color: beige;
+    border: 2px solid black;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
